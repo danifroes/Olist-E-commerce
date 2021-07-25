@@ -21,6 +21,6 @@ The dataset consists of 100k orders from 2016 and 2018 that were made on the Oli
 - geolocation
 - customers
 
-## Project steps
-- 1 - Olist folder - In order to deal with many datasets, do some data cleaning and create new features, I developed a folder called 'olist' with classes that will handle all the logic and make easier to load data during the analysis on jupyter notabook.
-- 2 - Notebooks folder - analysis and calculations to make conclusions
+## Project description
+- 1 - olist-classes folder - In order to deal with many datasets, do some data cleaning and create new features, I developed a folder called 'olist' with classes that will handle all the logic and make easier to load data during the analysis on jupyter notabook.
+- 2 - notebooks folder - analysis and calculations to make conclusions
